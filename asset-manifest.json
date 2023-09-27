@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mozahidhussain/static/css/main.bf538fe7.css",
+    "main.js": "/mozahidhussain/static/js/main.73a72211.js",
+    "static/media/Heroimage.jpeg": "/mozahidhussain/static/media/Heroimage.8ccecc64d48ed9418a40.jpeg",
+    "index.html": "/mozahidhussain/index.html",
+    "main.bf538fe7.css.map": "/mozahidhussain/static/css/main.bf538fe7.css.map",
+    "main.73a72211.js.map": "/mozahidhussain/static/js/main.73a72211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.73a72211.js"
+  ]
+}
